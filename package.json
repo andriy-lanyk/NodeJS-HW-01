@@ -1,0 +1,20 @@
+{
+  "name": "NodeJS-HW-01",
+  "version": "1.0.0",
+  "description": "HW-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriy-lanyk/NodeJS-HW-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriy-lanyk/NodeJS-HW-01/issues"
+  },
+  "homepage": "https://github.com/andriy-lanyk/NodeJS-HW-01#readme"
+}
